@@ -1,0 +1,11 @@
+print("enter two nos=")
+a=int(input())
+b=int(input())
+print('addition=',a+b)
+print('substraction=',a-b)
+print('multiplication=',a*b)
+print('Devision=',a/b)
+print('floor devision=',a//b)
+print('modulous=',a%b)
+print('exponetial=',a**b)
+      
